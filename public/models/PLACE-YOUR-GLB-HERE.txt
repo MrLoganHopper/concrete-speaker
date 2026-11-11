@@ -1,0 +1,4 @@
+Put your .glb file in this folder, e.g. my-boot.glb.
+Then edit src/config.js and set:
+  export const MODEL_URL = '/models/my-boot.glb'
+Or press LOAD .GLB in the on-page 3D viewer to preview directly from your laptop.
